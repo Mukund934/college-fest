@@ -13,7 +13,6 @@ Welcome to the official repository for our college fest website! This project is
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## 🌟 About
 
